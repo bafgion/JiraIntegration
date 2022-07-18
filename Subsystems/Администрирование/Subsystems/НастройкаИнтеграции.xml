@@ -9,10 +9,9 @@
 			<ExtendedConfigurationObject>942ddd28-a917-4e3d-ba68-726374c1ce8d</ExtendedConfigurationObject>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.Д_ОбщегоНазначения</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">16fd5446-ad79-4f9b-a650-a5358b271e77</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Д_РаботаСJira</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.Д_ОткрытьНастройки</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">ddcbfe90-15d9-4781-b430-b721fcda1877</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Д_НастройкиПорядкаВыполнения</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
