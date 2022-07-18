@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов" id="d25440b9-babe-4b41-826b-83b630028ab9" configVersion="7d72c4c10e5c0ba8c5e5645e30dd79b9f35d9812">
+			<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов.Attribute.GUIDЗаписи" id="05ad3517-c785-4e4c-9fe6-8ae84a11a3ea"/>
+			<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов.TabularSection.СопоставленныеПараметры" id="647b3a45-1a83-407c-af78-325b2087a3cb"/>
+			<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов.TabularSection.СопоставленныеПараметры.Attribute.СопоставленноеЗначение" id="877ee5b3-b750-4269-b49a-e674501dfe1c"/>
+			<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов.TabularSection.СопоставленныеПараметры.Attribute.Параметр" id="d9d45859-be64-48a8-981d-6dc0cb1a145a"/>
+		</Metadata>
+		<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов.Form.ФормаЭлемента" id="99843605-3178-43fb-8d30-55f205f8eb62" configVersion="24fc9fcf49503c164f42ffcb6d454a2fea2c7519"/>
+		<Metadata name="Catalog.Д_СопоставлениеПолейЗапросов.Form.ФормаЭлемента.Form" id="99843605-3178-43fb-8d30-55f205f8eb62.0" configVersion="90502290ac793b346ab27d8006c809e17474c0cf"/>
+		<Metadata name="CommonCommand.Д_ОткрытьНастройки" id="a28db518-575a-4d8a-a8a4-83d7c129a32c" configVersion="f872fc598012889308dfedf5187c357992d8809b"/>
+		<Metadata name="CommonCommand.Д_ОткрытьНастройки.CommandModule" id="a28db518-575a-4d8a-a8a4-83d7c129a32c.2" configVersion="d00beaa8ba680f8c389b3f37acec66840a95e619"/>
+		<Metadata name="CommonForm.Д_Настройки" id="12a13b9d-dc9a-4c18-b630-96c2c3bdd026" configVersion="3147fd3e15eec90c58934a57cf61c5b2eaac7c5a"/>
+		<Metadata name="CommonForm.Д_Настройки.Form" id="12a13b9d-dc9a-4c18-b630-96c2c3bdd026.0" configVersion="5e8a9ddb85baf76555edca6daf9decfe45b1dcf1"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJira" id="88f80e39-1998-4107-a537-449fda745169" configVersion="87fe533ae081af37a8b4c04eadd25a406bea567f"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJira.Module" id="88f80e39-1998-4107-a537-449fda745169.0" configVersion="0c6bb705363529afe8715bae2e03441cc38fb17c"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraВызовСервера" id="22b91c53-3592-45f8-8835-f8c9c5217b2d" configVersion="07b38f23bff666636a0f66ab4a81c06dc85b7c40"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraВызовСервера.Module" id="22b91c53-3592-45f8-8835-f8c9c5217b2d.0" configVersion="cf4d9e0fcf89f252b78d7fb93ab5e8af759da2d1"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиент" id="fe30990f-18d4-411f-a5e4-78ab41471ad3" configVersion="cd1db4d34ed45864bf45aa181f700ce9a0a5dc89"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиент.Module" id="fe30990f-18d4-411f-a5e4-78ab41471ad3.0" configVersion="b53cb8d781822d86fec7ed24941dc52f31656cd2"/>
+		<Metadata name="CommonModule.Д_ОбщегоНазначения" id="a0c15d4c-c9b4-445c-9d25-ea904d3b7e4e" configVersion="390b24fe7f0cf7181a8c7e212f1639acd4d6c2dc"/>
+		<Metadata name="CommonModule.Д_ОбщегоНазначения.Module" id="a0c15d4c-c9b4-445c-9d25-ea904d3b7e4e.0" configVersion="4bf3bad185468635f4126c5b4ad7dd59299c3b6e"/>
+		<Metadata name="CommonPicture.Д_КартинкаJira" id="06eee144-ee4e-4bd9-acaa-9b80a7424453" configVersion="3f40a79386ddbc7fd7cbd07fc68eab2950f2edf1"/>
+		<Metadata name="CommonPicture.Д_КартинкаJira.Picture" id="06eee144-ee4e-4bd9-acaa-9b80a7424453.0" configVersion="05a5a25ee7d9a59054aa25c69e9dabf51ec0551b"/>
+		<Metadata name="Configuration.ИнтеграцияJira" id="3d3a8f24-cadb-41b5-af59-2d675e302682" configVersion="80b80c55b6c95e6f5882a22e46dea07ad2f30910"/>
+		<Metadata name="Enum.Д_ИдентификаторМетода" id="e5979548-5f6e-4594-8d7a-7421ac38cc9b" configVersion="392a3474dbf652edd489ce41a54a972475a4b2ea">
+			<Metadata name="Enum.Д_ИдентификаторМетода.EnumValue.ПослеЗаписиНаСервере" id="d029a9ce-6502-4877-9878-dc0aa8bc59b3"/>
+		</Metadata>
+		<Metadata name="Enum.Д_ТипыЗапросов" id="c4919372-1d4c-4133-999a-22a39bb142e9" configVersion="4a5530d1c0f42b491348d6344438c0e953ee50d5">
+			<Metadata name="Enum.Д_ТипыЗапросов.EnumValue.PUT" id="c631ade7-dd71-49a9-9ed0-eaa90e2c23e1"/>
+			<Metadata name="Enum.Д_ТипыЗапросов.EnumValue.POST" id="d0e5653a-43c4-4d1d-bb49-5c8cda050562"/>
+			<Metadata name="Enum.Д_ТипыЗапросов.EnumValue.GET" id="f72b2443-648e-404d-8c94-11a5b99a845e"/>
+		</Metadata>
+		<Metadata name="Enum.Д_ТипыОбъектов" id="f86dd13b-28b4-408b-931c-789729a518bb" configVersion="8f72d9ddc49027862fc3177862fe260e7f92c374">
+			<Metadata name="Enum.Д_ТипыОбъектов.EnumValue.Справочник" id="7b646c18-acf6-403a-80a0-4edacc7ef4c7"/>
+			<Metadata name="Enum.Д_ТипыОбъектов.EnumValue.Документ" id="c280032e-6e17-4c03-9771-09e299d5bf44"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Д_НастройкиJira" id="24c26fe8-087e-4a21-bdeb-e2c4e80e7d61" configVersion="38ab1c181c7d62c1b4432a84bd8c70e49a12d5d4">
+			<Metadata name="InformationRegister.Д_НастройкиJira.Resource.Значение" id="03d32fa4-057f-4313-a9dd-cec10cf46dce"/>
+			<Metadata name="InformationRegister.Д_НастройкиJira.Dimension.Ключ" id="af0b3f46-e8c2-4210-a086-4c0ef48a3f2b"/>
+			<Metadata name="InformationRegister.Д_НастройкиJira.Dimension.Индекс" id="c8055b50-62e2-4d30-b0af-4459a0166bcb"/>
+			<Metadata name="InformationRegister.Д_НастройкиJira.Attribute.Комментарий" id="c94862e0-4b05-4c76-a7c5-6e60d50cfe43"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки" id="ae362302-73d7-4f31-85f1-ef585caa7aa8" configVersion="2ec7af6e56a4a228626303f6249c09fd50541097">
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Dimension.UIDЗаписи" id="2040612c-36fc-4a4a-82e6-499fdfa4bf68"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Dimension.ИмяОбъекта" id="4eb47391-dedb-44eb-b54c-a96c9453d6c0"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Dimension.ВызываемыйМетод" id="754f6bd9-a8a9-4e5e-8ae5-7a1809c10c53"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Dimension.ТипЗапроса" id="8510a27e-fd60-441a-af15-339e73e82ab9"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Resource.ШаблонЗапроса" id="aa6f09d7-bc7b-48fa-9e69-664d0ae2dd52"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Resource.Шаблон" id="d22949ef-bb85-4b76-b9d9-f18a4d0d33e3"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Resource.ПроизвольныйЗапрос" id="f79ff723-8a60-4da5-b745-268aefa15b7d"/>
+			<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Dimension.ТипОбъекта" id="fbae1648-f702-4637-8a32-e799cd787ba2"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Form.ФормаЗаписи" id="7d091d21-bb45-4d84-b2da-7b1de497af41" configVersion="c9cef8cb1c98604076a5a1d6abb79628256e4f69"/>
+		<Metadata name="InformationRegister.Д_НастройкиШаблоновОтправки.Form.ФормаЗаписи.Form" id="7d091d21-bb45-4d84-b2da-7b1de497af41.0" configVersion="75c358143893b573069f7c79aad8b86b92abc0b1"/>
+		<Metadata name="Language.Русский" id="73d6c3bf-c2e1-4401-ad53-4c1c714c2546" configVersion="4e02f6e7b6aa76925c576d4bf9b39ccbb6145c2e"/>
+		<Metadata name="Role.Д_РаботаСJira" id="7e0365b4-1082-409b-bf7a-4e1c662c2358" configVersion="1be595addb684698acfa60471955463edbb97a1e"/>
+		<Metadata name="Subsystem.Администрирование" id="148626fa-8025-46d7-ab7e-a66915cf0028" configVersion="5da9518dfcdc09529ec5489b044d3fd0bb7b80a2"/>
+		<Metadata name="Subsystem.Администрирование.Subsystem.НастройкаИнтеграции" id="c190dafb-a477-44c2-9cd3-dcb951198f36" configVersion="a1e1082bea8d0f044338d3093311b152e5782e59"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
