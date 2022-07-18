@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Д_РаботаСJira</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>1.0.0.2</Version>
+			<Version>1.1.0.1</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -74,12 +74,12 @@
 			<CommonModule>Д_ИнтеграцияСJiraВызовСервера</CommonModule>
 			<CommonCommand>Д_ОткрытьНастройки</CommonCommand>
 			<CommonForm>Д_Настройки</CommonForm>
-			<Catalog>Д_СопоставлениеПолейЗапросов</Catalog>
+			<Catalog>Д_НастройкиШаблоновОтправки</Catalog>
+			<Catalog>Д_НастройкиПорядкаВыполнения</Catalog>
 			<Enum>Д_ТипыЗапросов</Enum>
 			<Enum>Д_ТипыОбъектов</Enum>
 			<Enum>Д_ИдентификаторМетода</Enum>
 			<InformationRegister>Д_НастройкиJira</InformationRegister>
-			<InformationRegister>Д_НастройкиШаблоновОтправки</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
