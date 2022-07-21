@@ -8,6 +8,9 @@
 	</CommandSet>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаТипИмяОбъекта" id="38">
 			<Title>
@@ -133,6 +136,13 @@
 									<EditMode>EnterOnInput</EditMode>
 									<ContextMenu name="ИспользуемыеЗапросыЗапросКонтекстноеМеню" id="33"/>
 									<ExtendedTooltip name="ИспользуемыеЗапросыЗапросРасширеннаяПодсказка" id="34"/>
+								</InputField>
+								<InputField name="ИспользуемыеЗапросыИдентификаторДляФормулы" id="49">
+									<DataPath>Объект.ИспользуемыеЗапросы.ИдентификаторДляФормулы</DataPath>
+									<ReadOnly>true</ReadOnly>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИспользуемыеЗапросыИдентификаторДляФормулыКонтекстноеМеню" id="50"/>
+									<ExtendedTooltip name="ИспользуемыеЗапросыИдентификаторДляФормулыРасширеннаяПодсказка" id="51"/>
 								</InputField>
 							</ChildItems>
 						</Table>
