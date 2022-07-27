@@ -9,6 +9,7 @@
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
+		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -136,6 +137,16 @@
 									<EditMode>EnterOnInput</EditMode>
 									<ContextMenu name="ИспользуемыеЗапросыЗапросКонтекстноеМеню" id="33"/>
 									<ExtendedTooltip name="ИспользуемыеЗапросыЗапросРасширеннаяПодсказка" id="34"/>
+									<Events>
+										<Event name="OnChange">ИспользуемыеЗапросыЗапросПриИзменении</Event>
+									</Events>
+								</InputField>
+								<InputField name="ИспользуемыеЗапросыИдентификаторДляФормулы" id="49">
+									<DataPath>Объект.ИспользуемыеЗапросы.ИдентификаторДляФормулы</DataPath>
+									<ReadOnly>true</ReadOnly>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИспользуемыеЗапросыИдентификаторДляФормулыКонтекстноеМеню" id="50"/>
+									<ExtendedTooltip name="ИспользуемыеЗапросыИдентификаторДляФормулыРасширеннаяПодсказка" id="51"/>
 								</InputField>
 								<InputField name="ИспользуемыеЗапросыИдентификаторДляФормулы" id="49">
 									<DataPath>Объект.ИспользуемыеЗапросы.ИдентификаторДляФормулы</DataPath>
@@ -161,6 +172,7 @@
 							<v8:content>Группа настройка</v8:content>
 						</v8:item>
 					</ToolTip>
+					<Group>AlwaysHorizontal</Group>
 					<ExtendedTooltip name="ГруппаНастройкаРасширеннаяПодсказка" id="45"/>
 					<ChildItems>
 						<InputField name="ШаблонВыполнения" id="46">
@@ -171,6 +183,16 @@
 							<MultiLine>true</MultiLine>
 							<ContextMenu name="ШаблонВыполненияКонтекстноеМеню" id="47"/>
 							<ExtendedTooltip name="ШаблонВыполненияРасширеннаяПодсказка" id="48"/>
+						</InputField>
+						<InputField name="ВариантыПеременных" id="52">
+							<DataPath>ВариантыПеременных</DataPath>
+							<AutoMaxWidth>false</AutoMaxWidth>
+							<HorizontalStretch>true</HorizontalStretch>
+							<MultiLine>true</MultiLine>
+							<ChoiceButton>false</ChoiceButton>
+							<ClearButton>false</ClearButton>
+							<ContextMenu name="ВариантыПеременныхКонтекстноеМеню" id="53"/>
+							<ExtendedTooltip name="ВариантыПеременныхРасширеннаяПодсказка" id="54"/>
 						</InputField>
 					</ChildItems>
 				</Page>
@@ -184,6 +206,17 @@
 			</Type>
 			<MainAttribute>true</MainAttribute>
 			<SavedData>true</SavedData>
+		</Attribute>
+		<Attribute name="ВариантыПеременных" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Доступные варианты запросов</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>v8:ValueListType</v8:Type>
+			</Type>
 		</Attribute>
 	</Attributes>
 </Form>
