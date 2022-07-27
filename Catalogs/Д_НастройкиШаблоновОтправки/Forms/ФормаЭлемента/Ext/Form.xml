@@ -47,6 +47,9 @@
 					<DataPath>Объект.ТипЗапроса</DataPath>
 					<ContextMenu name="ТипЗапросаКонтекстноеМеню" id="10"/>
 					<ExtendedTooltip name="ТипЗапросаРасширеннаяПодсказка" id="11"/>
+					<Events>
+						<Event name="OnChange">ТипЗапросаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<CheckBoxField name="ПроизвольныйЗапрос" id="12">
 					<DataPath>Объект.ПроизвольныйЗапрос</DataPath>
