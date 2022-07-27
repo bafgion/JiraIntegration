@@ -148,6 +148,13 @@
 									<ContextMenu name="ИспользуемыеЗапросыИдентификаторДляФормулыКонтекстноеМеню" id="50"/>
 									<ExtendedTooltip name="ИспользуемыеЗапросыИдентификаторДляФормулыРасширеннаяПодсказка" id="51"/>
 								</InputField>
+								<InputField name="ИспользуемыеЗапросыИдентификаторДляФормулы" id="49">
+									<DataPath>Объект.ИспользуемыеЗапросы.ИдентификаторДляФормулы</DataPath>
+									<ReadOnly>true</ReadOnly>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="ИспользуемыеЗапросыИдентификаторДляФормулыКонтекстноеМеню" id="50"/>
+									<ExtendedTooltip name="ИспользуемыеЗапросыИдентификаторДляФормулыРасширеннаяПодсказка" id="51"/>
+								</InputField>
 							</ChildItems>
 						</Table>
 					</ChildItems>
