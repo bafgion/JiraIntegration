@@ -79,6 +79,7 @@
 			<CommonForm>Д_Настройки</CommonForm>
 			<Catalog>Д_НастройкиШаблоновОтправки</Catalog>
 			<Catalog>Д_НастройкиПорядкаВыполнения</Catalog>
+			<Document>Д_ОшибкиОтправки</Document>
 			<Enum>Д_ТипыЗапросов</Enum>
 			<Enum>Д_ТипыОбъектов</Enum>
 			<Enum>Д_ИдентификаторМетода</Enum>

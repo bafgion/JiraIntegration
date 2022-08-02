@@ -12,7 +12,9 @@
 		</Metadata>
 		<Metadata name="Catalog.Д_НастройкиПорядкаВыполнения.Form.ФормаЭлемента" id="9bb2cc49-1e59-419e-b440-85448d252ec3" configVersion="b8fbed5bb73ce132aeea0d747bb8542fe6444ba6"/>
 		<Metadata name="Catalog.Д_НастройкиПорядкаВыполнения.Form.ФормаЭлемента.Form" id="9bb2cc49-1e59-419e-b440-85448d252ec3.0" configVersion="61f6fa2254c9cf7761e39d00cdf5f9bbb47f25d3"/>
-		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки" id="d25440b9-babe-4b41-826b-83b630028ab9" configVersion="e9f6c74c4c95288624384997f0f69bd249719bd4">
+		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки" id="d25440b9-babe-4b41-826b-83b630028ab9" configVersion="9cbb8470899deba43e5c7c884d8e3a93c2c87113">
+			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ПутьМетодаAPI" id="02af456b-ac6f-4afa-be19-6264cc5a4ea1"/>
+			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.TabularSection.СопоставленныеПараметры.Attribute.ИмяРеквизита" id="1e6f79f8-dc77-42e6-92b4-28f5b8539de2"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ТипЗапроса" id="2469870c-181a-4dfe-a017-eb64c6a87a0b"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ПроизвольныйЗапрос" id="45f06997-0135-4490-be47-cb920aabc623"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ИмяОбъекта" id="5032fe16-a334-404b-a6c4-6191b128e729"/>
@@ -20,16 +22,18 @@
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ВызываемыйМетод" id="67fe73d8-d35d-4114-8584-ca323edf899c"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.TabularSection.СопоставленныеПараметры.Attribute.СопоставленноеЗначение" id="877ee5b3-b750-4269-b49a-e674501dfe1c"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ТипОбъекта" id="a0103269-3779-4855-b86b-c7dd0913dd76"/>
+			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.TabularSection.СопоставленныеПараметры.Attribute.ЭтоПользователь" id="be771aa9-c82e-46fb-8fcb-6bdd25bd0052"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.TabularSection.СопоставленныеПараметры.Attribute.Параметр" id="d9d45859-be64-48a8-981d-6dc0cb1a145a"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ШаблонЗапроса" id="dfac04bf-f47f-4b07-9ac6-a46f48e2789e"/>
 			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.Шаблон" id="f939949c-d8ee-46a2-99c6-c9c809598426"/>
+			<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Attribute.ОбращениеКInsight" id="fe528533-9587-49ce-b920-afc289cd671b"/>
 		</Metadata>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаВыбора" id="a47ce7dc-a0d8-4adc-a0e3-24678a2d30d3" configVersion="c4f7968b81cb342342642c974fcebdac3645e5eb"/>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаВыбора.Form" id="a47ce7dc-a0d8-4adc-a0e3-24678a2d30d3.0" configVersion="93086280385f5ec85f11a78f3c55a5667aec9c83"/>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаСписка" id="d9de4e5d-5c74-4efb-b231-205ac01cee14" configVersion="bdcd0061dc2429a2855155a7d52c754fd0622d42"/>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаСписка.Form" id="d9de4e5d-5c74-4efb-b231-205ac01cee14.0" configVersion="f28f356df639dc67574d5972f4a42b0d33f8aa91"/>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаЭлемента" id="99843605-3178-43fb-8d30-55f205f8eb62" configVersion="24fc9fcf49503c164f42ffcb6d454a2fea2c7519"/>
-		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаЭлемента.Form" id="99843605-3178-43fb-8d30-55f205f8eb62.0" configVersion="fceeb53e51c6c104f6e0876ebf8afcae2baaf1c2"/>
+		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаЭлемента.Form" id="99843605-3178-43fb-8d30-55f205f8eb62.0" configVersion="0f7b551f1ab4a53556baa4b518541de0ea1d313b"/>
 		<Metadata name="CommonCommand.Д_ОткрытьНастройки" id="a28db518-575a-4d8a-a8a4-83d7c129a32c" configVersion="f872fc598012889308dfedf5187c357992d8809b"/>
 		<Metadata name="CommonCommand.Д_ОткрытьНастройки.CommandModule" id="a28db518-575a-4d8a-a8a4-83d7c129a32c.2" configVersion="d00beaa8ba680f8c389b3f37acec66840a95e619"/>
 		<Metadata name="CommonForm.Д_Настройки" id="12a13b9d-dc9a-4c18-b630-96c2c3bdd026" configVersion="3147fd3e15eec90c58934a57cf61c5b2eaac7c5a"/>
@@ -50,7 +54,18 @@
 		<Metadata name="CommonModule.Д_ОбщегоНазначенияКлиентСервер.Module" id="d7c035e0-eadb-42da-a272-a5eb6c32fd3f.0" configVersion="96787a9d3e4199e7417a599030e66ad2c378fe15"/>
 		<Metadata name="CommonPicture.Д_КартинкаJira" id="06eee144-ee4e-4bd9-acaa-9b80a7424453" configVersion="3f40a79386ddbc7fd7cbd07fc68eab2950f2edf1"/>
 		<Metadata name="CommonPicture.Д_КартинкаJira.Picture" id="06eee144-ee4e-4bd9-acaa-9b80a7424453.0" configVersion="05a5a25ee7d9a59054aa25c69e9dabf51ec0551b"/>
-		<Metadata name="Configuration.ИнтеграцияJira" id="3d3a8f24-cadb-41b5-af59-2d675e302682" configVersion="47defbc2312192bf51e0e52ae2a6c380b188e3b0"/>
+		<Metadata name="Configuration.ИнтеграцияJira" id="3d3a8f24-cadb-41b5-af59-2d675e302682" configVersion="5148a6a77a8d829ab3cd5c5cc19c40f6a6df87f0"/>
+		<Metadata name="Document.Д_ОшибкиОтправки" id="a5f23bbc-f772-4fbd-8048-9758be1986dd" configVersion="5736b7be751661dc9a984b52adc2019c034485f6">
+			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.ОписаниеОшибки" id="31e1fd7b-2864-43ba-8e4e-f5e0ff7869e8"/>
+			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.Комментарий" id="4b799a2b-2fa4-4c6e-ad78-13ece4b53fa3"/>
+			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.Тело" id="b4653bc0-6d48-448f-ae47-805b5bc4bf79"/>
+			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.КодСостояния" id="be68bd26-55a4-42b8-9ca8-5701c789273d"/>
+			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.Обработано" id="f0a4843d-b1a5-406c-af5b-4f67321fad11"/>
+		</Metadata>
+		<Metadata name="Document.Д_ОшибкиОтправки.Form.ФормаДокумента" id="33cff855-1f9e-49ce-b31b-e702b7725a5a" configVersion="6166839b8abed2d428f2f64a80860acb44b8c5bc"/>
+		<Metadata name="Document.Д_ОшибкиОтправки.Form.ФормаДокумента.Form" id="33cff855-1f9e-49ce-b31b-e702b7725a5a.0" configVersion="0db69c9e1e86f0bf9745341e9b3d833670de271b"/>
+		<Metadata name="Document.Д_ОшибкиОтправки.Form.ФормаСписка" id="240d0d82-22c4-4d87-8e4c-4a82920096e5" configVersion="a2ea8757ec8f52eb49bd0ef3626cc27bc24400aa"/>
+		<Metadata name="Document.Д_ОшибкиОтправки.Form.ФормаСписка.Form" id="240d0d82-22c4-4d87-8e4c-4a82920096e5.0" configVersion="27ea8b7d8dcbe3696c5af95491708a88af8b63d3"/>
 		<Metadata name="Enum.Д_ИдентификаторМетода" id="e5979548-5f6e-4594-8d7a-7421ac38cc9b" configVersion="392a3474dbf652edd489ce41a54a972475a4b2ea">
 			<Metadata name="Enum.Д_ИдентификаторМетода.EnumValue.ПослеЗаписиНаСервере" id="d029a9ce-6502-4877-9878-dc0aa8bc59b3"/>
 		</Metadata>
