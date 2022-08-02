@@ -54,7 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.Д_РаботаСJira</xr:Item>
 			</DefaultRoles>
 			<Vendor/>
-			<Version>1.1.0.2</Version>
+			<Version>1.1.0.3</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -69,9 +69,12 @@
 			<CommonPicture>Д_КартинкаJira</CommonPicture>
 			<Role>Д_РаботаСJira</Role>
 			<CommonModule>Д_ОбщегоНазначения</CommonModule>
+			<CommonModule>Д_ОбщегоНазначенияВызовСервера</CommonModule>
+			<CommonModule>Д_ОбщегоНазначенияКлиентСервер</CommonModule>
 			<CommonModule>Д_ИнтеграцияСJira</CommonModule>
 			<CommonModule>Д_ИнтеграцияСJiraКлиент</CommonModule>
 			<CommonModule>Д_ИнтеграцияСJiraВызовСервера</CommonModule>
+			<CommonModule>Д_ИнтеграцияСJiraКлиентСервер</CommonModule>
 			<CommonCommand>Д_ОткрытьНастройки</CommonCommand>
 			<CommonForm>Д_Настройки</CommonForm>
 			<Catalog>Д_НастройкиШаблоновОтправки</Catalog>

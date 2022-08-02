@@ -10,6 +10,7 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
 		<Event name="OnReadAtServer">ПриЧтенииНаСервере</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -140,13 +141,6 @@
 									<Events>
 										<Event name="OnChange">ИспользуемыеЗапросыЗапросПриИзменении</Event>
 									</Events>
-								</InputField>
-								<InputField name="ИспользуемыеЗапросыИдентификаторДляФормулы" id="49">
-									<DataPath>Объект.ИспользуемыеЗапросы.ИдентификаторДляФормулы</DataPath>
-									<ReadOnly>true</ReadOnly>
-									<EditMode>EnterOnInput</EditMode>
-									<ContextMenu name="ИспользуемыеЗапросыИдентификаторДляФормулыКонтекстноеМеню" id="50"/>
-									<ExtendedTooltip name="ИспользуемыеЗапросыИдентификаторДляФормулыРасширеннаяПодсказка" id="51"/>
 								</InputField>
 								<InputField name="ИспользуемыеЗапросыИдентификаторДляФормулы" id="49">
 									<DataPath>Объект.ИспользуемыеЗапросы.ИдентификаторДляФормулы</DataPath>
