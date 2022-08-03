@@ -14,6 +14,44 @@
 		<Event name="OnClose">ПриЗакрытии</Event>
 	</Events>
 	<ChildItems>
+		<UsualGroup name="ГруппаОбращениеКAPI" id="59">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа обращение к API</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа обращение КAPI</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>AlwaysHorizontal</Group>
+			<Behavior>Usual</Behavior>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаОбращениеКAPIРасширеннаяПодсказка" id="60"/>
+			<ChildItems>
+				<InputField name="ПутьМетодаAPI" id="56">
+					<DataPath>Объект.ПутьМетодаAPI</DataPath>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Указывается путь к методу API. Все что следует после имени сайта.</v8:content>
+						</v8:item>
+					</ToolTip>
+					<ContextMenu name="ПутьМетодаAPIКонтекстноеМеню" id="57"/>
+					<ExtendedTooltip name="ПутьМетодаAPIРасширеннаяПодсказка" id="58"/>
+				</InputField>
+				<CheckBoxField name="ОбращениеКInsight" id="61">
+					<DataPath>Объект.ОбращениеКInsight</DataPath>
+					<CheckBoxType>Auto</CheckBoxType>
+					<ContextMenu name="ОбращениеКInsightКонтекстноеМеню" id="62"/>
+					<ExtendedTooltip name="ОбращениеКInsightРасширеннаяПодсказка" id="63"/>
+				</CheckBoxField>
+			</ChildItems>
+		</UsualGroup>
 		<InputField name="ТипОбъекта" id="1">
 			<DataPath>Объект.ТипОбъекта</DataPath>
 			<ContextMenu name="ТипОбъектаКонтекстноеМеню" id="2"/>
@@ -199,12 +237,14 @@
 							<ChildItems>
 								<LabelField name="СопоставленныеПараметрыНомерСтроки" id="47">
 									<DataPath>Объект.СопоставленныеПараметры.LineNumber</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<ContextMenu name="СопоставленныеПараметрыНомерСтрокиКонтекстноеМеню" id="48"/>
 									<ExtendedTooltip name="СопоставленныеПараметрыНомерСтрокиРасширеннаяПодсказка" id="49"/>
 								</LabelField>
 								<InputField name="СопоставленныеПараметрыПараметр" id="50">
 									<DataPath>Объект.СопоставленныеПараметры.Параметр</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<ContextMenu name="СопоставленныеПараметрыПараметрКонтекстноеМеню" id="51"/>
 									<ExtendedTooltip name="СопоставленныеПараметрыПараметрРасширеннаяПодсказка" id="52"/>
@@ -214,7 +254,23 @@
 									<EditMode>EnterOnInput</EditMode>
 									<ContextMenu name="СопоставленныеПараметрыСопоставленноеЗначениеКонтекстноеМеню" id="54"/>
 									<ExtendedTooltip name="СопоставленныеПараметрыСопоставленноеЗначениеРасширеннаяПодсказка" id="55"/>
+									<Events>
+										<Event name="OnChange">СопоставленныеПараметрыСопоставленноеЗначениеПриИзменении</Event>
+									</Events>
 								</InputField>
+								<InputField name="СопоставленныеПараметрыИмяРеквизита" id="64">
+									<DataPath>Объект.СопоставленныеПараметры.ИмяРеквизита</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ContextMenu name="СопоставленныеПараметрыИмяРеквизитаКонтекстноеМеню" id="65"/>
+									<ExtendedTooltip name="СопоставленныеПараметрыИмяРеквизитаРасширеннаяПодсказка" id="66"/>
+								</InputField>
+								<CheckBoxField name="СопоставленныеПараметрыЭтоПользователь" id="67">
+									<DataPath>Объект.СопоставленныеПараметры.ЭтоПользователь</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<CheckBoxType>Auto</CheckBoxType>
+									<ContextMenu name="СопоставленныеПараметрыЭтоПользовательКонтекстноеМеню" id="68"/>
+									<ExtendedTooltip name="СопоставленныеПараметрыЭтоПользовательРасширеннаяПодсказка" id="69"/>
+								</CheckBoxField>
 							</ChildItems>
 						</Table>
 					</ChildItems>
