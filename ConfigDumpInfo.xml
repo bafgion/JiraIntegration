@@ -33,28 +33,30 @@
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаСписка" id="d9de4e5d-5c74-4efb-b231-205ac01cee14" configVersion="bdcd0061dc2429a2855155a7d52c754fd0622d42"/>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаСписка.Form" id="d9de4e5d-5c74-4efb-b231-205ac01cee14.0" configVersion="f28f356df639dc67574d5972f4a42b0d33f8aa91"/>
 		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаЭлемента" id="99843605-3178-43fb-8d30-55f205f8eb62" configVersion="24fc9fcf49503c164f42ffcb6d454a2fea2c7519"/>
-		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаЭлемента.Form" id="99843605-3178-43fb-8d30-55f205f8eb62.0" configVersion="c1e70518cf052138562fd029a383373985e9efc9"/>
+		<Metadata name="Catalog.Д_НастройкиШаблоновОтправки.Form.ФормаЭлемента.Form" id="99843605-3178-43fb-8d30-55f205f8eb62.0" configVersion="5b99a637b97f559c3cab57e6d1644ec9e1ce5945"/>
 		<Metadata name="CommonCommand.Д_ОткрытьНастройки" id="a28db518-575a-4d8a-a8a4-83d7c129a32c" configVersion="f872fc598012889308dfedf5187c357992d8809b"/>
 		<Metadata name="CommonCommand.Д_ОткрытьНастройки.CommandModule" id="a28db518-575a-4d8a-a8a4-83d7c129a32c.2" configVersion="d00beaa8ba680f8c389b3f37acec66840a95e619"/>
 		<Metadata name="CommonForm.Д_Настройки" id="12a13b9d-dc9a-4c18-b630-96c2c3bdd026" configVersion="3147fd3e15eec90c58934a57cf61c5b2eaac7c5a"/>
-		<Metadata name="CommonForm.Д_Настройки.Form" id="12a13b9d-dc9a-4c18-b630-96c2c3bdd026.0" configVersion="57c0990a9ebc524cb10a100f226aa6cf046da65f"/>
+		<Metadata name="CommonForm.Д_Настройки.Form" id="12a13b9d-dc9a-4c18-b630-96c2c3bdd026.0" configVersion="019eaaedc642cad3f5ce2b706c21a6fffc94336d"/>
 		<Metadata name="CommonModule.Д_ИнтеграцияСJira" id="88f80e39-1998-4107-a537-449fda745169" configVersion="87fe533ae081af37a8b4c04eadd25a406bea567f"/>
-		<Metadata name="CommonModule.Д_ИнтеграцияСJira.Module" id="88f80e39-1998-4107-a537-449fda745169.0" configVersion="48bd5eda0c7574a5088a2c1a4d44677c1520c547"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJira.Module" id="88f80e39-1998-4107-a537-449fda745169.0" configVersion="0e1c494b665b1b66c178906fd44fbbb6d7e1e754"/>
 		<Metadata name="CommonModule.Д_ИнтеграцияСJiraВызовСервера" id="22b91c53-3592-45f8-8835-f8c9c5217b2d" configVersion="07b38f23bff666636a0f66ab4a81c06dc85b7c40"/>
-		<Metadata name="CommonModule.Д_ИнтеграцияСJiraВызовСервера.Module" id="22b91c53-3592-45f8-8835-f8c9c5217b2d.0" configVersion="0402b07fbbc7bd02f4c5b3c80c5a1ec759f13584"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraВызовСервера.Module" id="22b91c53-3592-45f8-8835-f8c9c5217b2d.0" configVersion="eea24b0c39554b6cd94416742878a5043b9d0f9f"/>
 		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиент" id="fe30990f-18d4-411f-a5e4-78ab41471ad3" configVersion="cd1db4d34ed45864bf45aa181f700ce9a0a5dc89"/>
-		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиент.Module" id="fe30990f-18d4-411f-a5e4-78ab41471ad3.0" configVersion="f616a09c5713652ceb1f13f40c5e6bc792212355"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиент.Module" id="fe30990f-18d4-411f-a5e4-78ab41471ad3.0" configVersion="9888943ff50f1743a2733fd76abd1f4107bfdacd"/>
 		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиентСервер" id="132fd3a7-5634-42a9-922a-5cb86e324276" configVersion="275913aa3d305697b31072704317f6597efb5a4f"/>
-		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиентСервер.Module" id="132fd3a7-5634-42a9-922a-5cb86e324276.0" configVersion="65da77578f096d8ba812a8074bc198b54f0d788f"/>
+		<Metadata name="CommonModule.Д_ИнтеграцияСJiraКлиентСервер.Module" id="132fd3a7-5634-42a9-922a-5cb86e324276.0" configVersion="934aead94b78223290a1375f587782e0914d803f"/>
 		<Metadata name="CommonModule.Д_ОбщегоНазначения" id="a0c15d4c-c9b4-445c-9d25-ea904d3b7e4e" configVersion="390b24fe7f0cf7181a8c7e212f1639acd4d6c2dc"/>
 		<Metadata name="CommonModule.Д_ОбщегоНазначения.Module" id="a0c15d4c-c9b4-445c-9d25-ea904d3b7e4e.0" configVersion="4bf3bad185468635f4126c5b4ad7dd59299c3b6e"/>
 		<Metadata name="CommonModule.Д_ОбщегоНазначенияВызовСервера" id="01d3edf5-1aa5-4c0e-a83e-e698fcf00974" configVersion="6d07a3565ef91fb73d90dd6f98dad4ace8d590a1"/>
 		<Metadata name="CommonModule.Д_ОбщегоНазначенияВызовСервера.Module" id="01d3edf5-1aa5-4c0e-a83e-e698fcf00974.0" configVersion="37ad2d8b6b8737c83f0ff8fd431606192ccb7d02"/>
 		<Metadata name="CommonModule.Д_ОбщегоНазначенияКлиентСервер" id="d7c035e0-eadb-42da-a272-a5eb6c32fd3f" configVersion="79bdd6da32c905601f3b0a63fd3d9df6c61ae672"/>
-		<Metadata name="CommonModule.Д_ОбщегоНазначенияКлиентСервер.Module" id="d7c035e0-eadb-42da-a272-a5eb6c32fd3f.0" configVersion="96787a9d3e4199e7417a599030e66ad2c378fe15"/>
+		<Metadata name="CommonModule.Д_ОбщегоНазначенияКлиентСервер.Module" id="d7c035e0-eadb-42da-a272-a5eb6c32fd3f.0" configVersion="8986e7e49fb4ef4fdcf58a6959c648ec944aef66"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="3c62be0b-4823-4f3b-a3ea-a1b46eccfc8c" configVersion="fd5c58327c19f040dea4553093a47f5bc48a3ef2"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="3c62be0b-4823-4f3b-a3ea-a1b46eccfc8c.0" configVersion="c881b650bf8c11f740c2f3db567036100b2d5cb7"/>
 		<Metadata name="CommonPicture.Д_КартинкаJira" id="06eee144-ee4e-4bd9-acaa-9b80a7424453" configVersion="3f40a79386ddbc7fd7cbd07fc68eab2950f2edf1"/>
 		<Metadata name="CommonPicture.Д_КартинкаJira.Picture" id="06eee144-ee4e-4bd9-acaa-9b80a7424453.0" configVersion="05a5a25ee7d9a59054aa25c69e9dabf51ec0551b"/>
-		<Metadata name="Configuration.ИнтеграцияJira" id="3d3a8f24-cadb-41b5-af59-2d675e302682" configVersion="5148a6a77a8d829ab3cd5c5cc19c40f6a6df87f0"/>
+		<Metadata name="Configuration.ИнтеграцияJira" id="3d3a8f24-cadb-41b5-af59-2d675e302682" configVersion="ed008e99f40ba043e6e3a2c0c45d85e72da23fb8"/>
 		<Metadata name="Document.Д_ОшибкиОтправки" id="a5f23bbc-f772-4fbd-8048-9758be1986dd" configVersion="5736b7be751661dc9a984b52adc2019c034485f6">
 			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.ОписаниеОшибки" id="31e1fd7b-2864-43ba-8e4e-f5e0ff7869e8"/>
 			<Metadata name="Document.Д_ОшибкиОтправки.Attribute.Комментарий" id="4b799a2b-2fa4-4c6e-ad78-13ece4b53fa3"/>
